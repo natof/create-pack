@@ -1,5 +1,14 @@
 {
   "goldrush:copper_pipe": {
     "textures": "copper_pipe"
+  },
+  "goldrush:copper__long_pipe": {
+    "textures": "copper_pipe"
+  },
+  "goldrush:copper_turn_pipe": {
+    "textures": "copper_pipe"
+  },
+  "goldrush:copper_long_end_pipe": {
+    "textures": "copper_pipe"
   }
 }
