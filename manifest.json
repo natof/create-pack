@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "create",
+        "name": "Create",
+        "uuid": "81ffd1a3-4e12-4d66-a67c-344fa1ed87b5",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Create",
+            "type": "resources",
+            "uuid": "75a8a82a-157f-4782-ab7b-c7cbbd926953",
+            "version": [0, 0, 1]
+        }
+    ]
+}

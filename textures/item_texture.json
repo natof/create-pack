@@ -1,0 +1,1118 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "alcool_empty": {
+      "textures": "textures/items/alcool_empty"
+    },
+    "alcool_fermier": {
+      "textures": "textures/items/alcool_fermier"
+    },
+    "alcool_inflamable": {
+      "textures": "textures/items/alcool_inflamable"
+    },
+    "alcool_legendary": {
+      "textures": "textures/items/alcool_legendary"
+    },
+    "alcool_vin": {
+      "textures": "textures/items/alcool_vin"
+    },
+    "aluminium_ingot": {
+      "textures": "textures/items/aluminium_ingot"
+    },
+    "aluminium_nugget": {
+      "textures": "textures/items/aluminium_nugget"
+    },
+    "aluminium_powder": {
+      "textures": "textures/items/aluminium_powder"
+    },
+    "aluminium_raw": {
+      "textures": "textures/items/aluminium_raw"
+    },
+    "amber": {
+      "textures": "textures/items/amber"
+    },
+    "amber_alcool": {
+      "textures": "textures/items/amber_alcool"
+    },
+    "amber_shard": {
+      "textures": "textures/items/amber_shard"
+    },
+    "amber_stick": {
+      "textures": "textures/items/amber_stick"
+    },
+    "amethyst": {
+      "textures": "textures/items/amethyst"
+    },
+    "amethyst_shard": {
+      "textures": "textures/items/amethyst_shard"
+    },
+    "background_shop_line": {
+      "textures": "textures/items/background_shop_line"
+    },
+    "backpack": {
+      "textures": "textures/items/backpack"
+    },
+    "backpack_black": {
+      "textures": "textures/items/backpack_black"
+    },
+    "backpack_blue": {
+      "textures": "textures/items/backpack_blue"
+    },
+    "backpack_fossil": {
+      "textures": "textures/items/backpack_fossil"
+    },
+    "backpack_green": {
+      "textures": "textures/items/backpack_green"
+    },
+    "backpack_orange": {
+      "textures": "textures/items/backpack_orange"
+    },
+    "backpack_ore": {
+      "textures": "textures/items/backpack_ore"
+    },
+    "backpack_pink": {
+      "textures": "textures/items/backpack_pink"
+    },
+    "backpack_red": {
+      "textures": "textures/items/backpack_red"
+    },
+    "backpack_white": {
+      "textures": "textures/items/backpack_white"
+    },
+    "backpack_yellow": {
+      "textures": "textures/items/backpack_yellow"
+    },
+    "banana": {
+      "textures": "textures/items/banana"
+    },
+    "banana_residue": {
+      "textures": "textures/items/banana_residue"
+    },
+    "bark": {
+      "textures": "textures/items/bark"
+    },
+    "beetroot": {
+      "textures": "textures/items/beetroot"
+    },
+    "big_bottle_empty": {
+      "textures": "textures/items/big_bottle_empty"
+    },
+    "book_enchanted_modded": {
+      "textures": "textures/items/book_enchanted_modded"
+    },
+    "botle_meche": {
+      "textures": "textures/items/botle_meche"
+    },
+    "bucheron_axe": {
+      "textures": "textures/items/bucheron_axe"
+    },
+    "bucket_elixir": {
+      "textures": "textures/items/bucket_elixir"
+    },
+    "charcoal_wyrdwood": {
+      "textures": "textures/items/charcoal_wyrdwood"
+    },
+    "cheese": {
+      "textures": "textures/items/cheese"
+    },
+    "cherry": {
+      "textures": "textures/items/cherry"
+    },
+    "cocktail_molotov": {
+      "textures": "textures/items/cocktail_molotov"
+    },
+    "copper_axe": {
+      "textures": "textures/items/copper_axe"
+    },
+    "copper_big_sword": {
+      "textures": "textures/items/copper_big_sword"
+    },
+    "copper_boots": {
+      "textures": "textures/items/copper_boots"
+    },
+    "copper_box": {
+      "textures": "textures/items/copper_box"
+    },
+    "copper_bucket": {
+      "textures": "textures/items/copper_bucket"
+    },
+    "copper_chestplate": {
+      "textures": "textures/items/copper_chestplate"
+    },
+    "copper_hammer": {
+      "textures": "textures/items/copper_hammer"
+    },
+    "copper_hammer_anvil": {
+      "textures": "textures/items/copper_hammer_anvil"
+    },
+    "copper_helmet": {
+      "textures": "textures/items/copper_helmet"
+    },
+    "copper_hoe": {
+      "textures": "textures/items/copper_hoe"
+    },
+    "copper_knife": {
+      "textures": "textures/items/copper_knife"
+    },
+    "copper_leggings": {
+      "textures": "textures/items/copper_leggings"
+    },
+    "copper_nugget": {
+      "textures": "textures/items/copper_nugget"
+    },
+    "copper_pickaxe": {
+      "textures": "textures/items/copper_pickaxe"
+    },
+    "copper_powder": {
+      "textures": "textures/items/copper_powder"
+    },
+    "copper_raw": {
+      "textures": "textures/items/copper_raw"
+    },
+    "copper_rifle": {
+      "textures": "textures/items/copper_rifle"
+    },
+    "copper_shovel": {
+      "textures": "textures/items/copper_shovel"
+    },
+    "copper_sword": {
+      "textures": "textures/items/copper_sword"
+    },
+    "copper_unclaim": {
+      "textures": "textures/items/copper_unclaim"
+    },
+    "egg": {
+      "textures": "textures/items/egg"
+    },
+    "electrum_axe": {
+      "textures": "textures/items/electrum_axe"
+    },
+    "electrum_big_sword": {
+      "textures": "textures/items/electrum_big_sword"
+    },
+    "electrum_boots": {
+      "textures": "textures/items/electrum_boots"
+    },
+    "electrum_chestplate": {
+      "textures": "textures/items/electrum_chestplate"
+    },
+    "electrum_hammer": {
+      "textures": "textures/items/electrum_hammer"
+    },
+    "electrum_helmet": {
+      "textures": "textures/items/electrum_helmet"
+    },
+    "electrum_hoe": {
+      "textures": "textures/items/electrum_hoe"
+    },
+    "electrum_ingot": {
+      "textures": "textures/items/electrum_ingot"
+    },
+    "electrum_knife": {
+      "textures": "textures/items/electrum_knife"
+    },
+    "electrum_leggings": {
+      "textures": "textures/items/electrum_leggings"
+    },
+    "electrum_nugget": {
+      "textures": "textures/items/electrum_nugget"
+    },
+    "electrum_pickaxe": {
+      "textures": "textures/items/electrum_pickaxe"
+    },
+    "electrum_powder": {
+      "textures": "textures/items/electrum_powder"
+    },
+    "electrum_rifle": {
+      "textures": "textures/items/electrum_rifle"
+    },
+    "electrum_shovel": {
+      "textures": "textures/items/electrum_shovel"
+    },
+    "electrum_sword": {
+      "textures": "textures/items/electrum_sword"
+    },
+    "emerald_axe": {
+      "textures": "textures/items/emerald_axe"
+    },
+    "emerald_big_sword": {
+      "textures": "textures/items/emerald_big_sword"
+    },
+    "emerald_boots": {
+      "textures": "textures/items/emerald_boots"
+    },
+    "emerald_chestplate": {
+      "textures": "textures/items/emerald_chestplate"
+    },
+    "emerald_hammer": {
+      "textures": "textures/items/emerald_hammer"
+    },
+    "emerald_helmet": {
+      "textures": "textures/items/emerald_helmet"
+    },
+    "emerald_hoe": {
+      "textures": "textures/items/emerald_hoe"
+    },
+    "emerald_ingot": {
+      "textures": "textures/items/emerald_ingot"
+    },
+    "emerald_leggings": {
+      "textures": "textures/items/emerald_leggings"
+    },
+    "menu": {
+      "textures": "textures/items/menu"
+    },
+    "emerald_multi_tools": {
+      "textures": "textures/items/emerald_multi_tools"
+    },
+    "emerald_nugget": {
+      "textures": "textures/items/emerald_nugget"
+    },
+    "emerald_pickaxe": {
+      "textures": "textures/items/emerald_pickaxe"
+    },
+    "emerald_powder": {
+      "textures": "textures/items/emerald_powder"
+    },
+    "emerald_rifle": {
+      "textures": "textures/items/emerald_rifle"
+    },
+    "emerald_shovel": {
+      "textures": "textures/items/emerald_shovel"
+    },
+    "emerald_sword": {
+      "textures": "textures/items/emerald_sword"
+    },
+    "emerald_compass_finder": {
+      "textures": "textures/items/emerald_compass_finder"
+    },
+    "ender_stone": {
+      "textures": "textures/items/ender_stone"
+    },
+    "explosive_dynamite": {
+      "textures": "textures/items/explosive_dynamite"
+    },
+    "explosive_hammer": {
+      "textures": "textures/items/explosive_hammer"
+    },
+    "explosive_sword": {
+      "textures": "textures/items/explosive_sword"
+    },
+    "farmer_dynamite": {
+      "textures": "textures/items/farmer_dynamite"
+    },
+    "farming_assassin": {
+      "textures": "textures/items/farming_assassin"
+    },
+    "farming_bucheron": {
+      "textures": "textures/items/farming_bucheron"
+    },
+    "farming_mineur": {
+      "textures": "textures/items/farming_mineur"
+    },
+    "farming_totem": {
+      "textures": "textures/items/farming_totem"
+    },
+    "faux": {
+      "textures": "textures/items/faux"
+    },
+    "fossil": {
+      "textures": "textures/items/fossil/basic/fossil"
+    },
+    "fossil_amber": {
+      "textures": "textures/items/fossil/amber/fossil_amber"
+    },
+    "fossil_amber_brachiosaurus": {
+      "textures": "textures/items/fossil/amber/fossil_amber_brachiosaurus"
+    },
+    "fossil_amber_diplodocus": {
+      "textures": "textures/items/fossil/amber/fossil_amber_diplodocus"
+    },
+    "fossil_amber_nodosaurus": {
+      "textures": "textures/items/fossil/amber/fossil_amber_nodosaurus"
+    },
+    "fossil_amber_pterodactyle": {
+      "textures": "textures/items/fossil/amber/fossil_amber_pterodactyle"
+    },
+    "fossil_amber_spinosaure": {
+      "textures": "textures/items/fossil/amber/fossil_amber_spinosaure"
+    },
+    "fossil_amber_stegosaurus": {
+      "textures": "textures/items/fossil/amber/fossil_amber_stegosaurus"
+    },
+    "fossil_amber_triceratops": {
+      "textures": "textures/items/fossil/amber/fossil_amber_triceratops"
+    },
+    "fossil_amber_tyrannosaure_rex": {
+      "textures": "textures/items/fossil/amber/fossil_amber_tyrannosaure_rex"
+    },
+    "fossil_amber_velociraptor": {
+      "textures": "textures/items/fossil/amber/fossil_amber_velociraptor"
+    },
+    "fossil_brachiosaurus": {
+      "textures": "textures/items/fossil/basic/fossil_brachiosaurus"
+    },
+    "fossil_diplodocus": {
+      "textures": "textures/items/fossil/basic/fossil_diplodocus"
+    },
+    "fossil_nodosaurus": {
+      "textures": "textures/items/fossil/basic/fossil_nodosaurus"
+    },
+    "fossil_pterodactyle": {
+      "textures": "textures/items/fossil/basic/fossil_pterodactyle"
+    },
+    "fossil_spinosaure": {
+      "textures": "textures/items/fossil/basic/fossil_spinosaure"
+    },
+    "fossil_stegosaurus": {
+      "textures": "textures/items/fossil/basic/fossil_stegosaurus"
+    },
+    "fossil_triceratops": {
+      "textures": "textures/items/fossil/basic/fossil_triceratops"
+    },
+    "fossil_tyrannosaure_rex": {
+      "textures": "textures/items/fossil/basic/fossil_tyrannosaure_rex"
+    },
+    "fossil_velociraptor": {
+      "textures": "textures/items/fossil/basic/fossil_velociraptor"
+    },
+    "fossil_gold": {
+      "textures": "textures/items/fossil/gold/fossil_gold"
+    },
+    "fossil_gold_brachiosaurus": {
+      "textures": "textures/items/fossil/gold/fossil_gold_brachiosaurus"
+    },
+    "fossil_gold_diplodocus": {
+      "textures": "textures/items/fossil/gold/fossil_gold_diplodocus"
+    },
+    "fossil_gold_nodosaurus": {
+      "textures": "textures/items/fossil/gold/fossil_gold_nodosaurus"
+    },
+    "fossil_gold_pterodactyle": {
+      "textures": "textures/items/fossil/gold/fossil_gold_pterodactyle"
+    },
+    "fossil_gold_spinosaure": {
+      "textures": "textures/items/fossil/gold/fossil_gold_spinosaure"
+    },
+    "fossil_gold_stegosaurus": {
+      "textures": "textures/items/fossil/gold/fossil_gold_stegosaurus"
+    },
+    "fossil_gold_triceratops": {
+      "textures": "textures/items/fossil/gold/fossil_gold_triceratops"
+    },
+    "fossil_gold_tyrannosaure_rex": {
+      "textures": "textures/items/fossil/gold/fossil_gold_tyrannosaure_rex"
+    },
+    "fossil_gold_velociraptor": {
+      "textures": "textures/items/fossil/gold/fossil_gold_velociraptor"
+    },
+    "fraise": {
+      "textures": "textures/items/fraise"
+    },
+    "goldrush_bamboo": {
+      "textures": "textures/items/goldrush_bamboo"
+    },
+    "goldrush_beetroot": {
+      "textures": "textures/items/goldrush_beetroot"
+    },
+    "goldrush_beetroot_soup": {
+      "textures": "textures/items/goldrush_beetroot_soup"
+    },
+    "goldrush_bread": {
+      "textures": "textures/items/goldrush_bread"
+    },
+    "goldrush_carrot": {
+      "textures": "textures/items/goldrush_carrot"
+    },
+    "goldrush_cavefinder": {
+      "textures": "textures/items/goldrush_cavefinder"
+    },
+    "goldrush_grape": {
+      "textures": "textures/items/goldrush_grape"
+    },
+    "goldrush_melon": {
+      "textures": "textures/items/goldrush_melon"
+    },
+    "goldrush_paper": {
+      "textures": "textures/items/goldrush_paper"
+    },
+    "goldrush_potato": {
+      "textures": "textures/items/goldrush_potato"
+    },
+    "goldrush_potato_baked": {
+      "textures": "textures/items/goldrush_potato_baked"
+    },
+    "goldrush_potato_poisonous": {
+      "textures": "textures/items/goldrush_potato_poisonous"
+    },
+    "goldrush_sugar_cane": {
+      "textures": "textures/items/goldrush_sugar_cane"
+    },
+    "goldrush_wheat": {
+      "textures": "textures/items/goldrush_wheat"
+    },
+    "gold_alcool": {
+      "textures": "textures/items/gold_alcool"
+    },
+    "gold_axe": {
+      "textures": "textures/items/gold_axe"
+    },
+    "gold_big_sword": {
+      "textures": "textures/items/gold_big_sword"
+    },
+    "gold_boots": {
+      "textures": "textures/items/gold_boots"
+    },
+    "gold_box": {
+      "textures": "textures/items/gold_box"
+    },
+    "gold_chestplate": {
+      "textures": "textures/items/gold_chestplate"
+    },
+    "gold_hammer": {
+      "textures": "textures/items/gold_hammer"
+    },
+    "gold_helmet": {
+      "textures": "textures/items/gold_helmet"
+    },
+    "gold_hoe": {
+      "textures": "textures/items/gold_hoe"
+    },
+    "gold_ingot": {
+      "textures": "textures/items/gold_ingot"
+    },
+    "gold_knife": {
+      "textures": "textures/items/gold_knife"
+    },
+    "gold_lapis": {
+      "textures": "textures/items/gold_lapis"
+    },
+    "gold_leggings": {
+      "textures": "textures/items/gold_leggings"
+    },
+    "gold_nugget": {
+      "textures": "textures/items/gold_nugget"
+    },
+    "gold_pickaxe": {
+      "textures": "textures/items/gold_pickaxe"
+    },
+    "gold_powder": {
+      "textures": "textures/items/gold_powder"
+    },
+    "gold_raw": {
+      "textures": "textures/items/gold_raw"
+    },
+    "gold_rifle": {
+      "textures": "textures/items/gold_rifle"
+    },
+    "gold_shovel": {
+      "textures": "textures/items/gold_shovel"
+    },
+    "gold_sword": {
+      "textures": "textures/items/gold_sword"
+    },
+    "gold_unclaim": {
+      "textures": "textures/items/gold_unclaim"
+    },
+    "gold_white_big_sword": {
+      "textures": "textures/items/gold_white_big_sword"
+    },
+    "gold_white_boots": {
+      "textures": "textures/items/gold_white_boots"
+    },
+    "gold_white_chestplate": {
+      "textures": "textures/items/gold_white_chestplate"
+    },
+    "gold_white_hammer": {
+      "textures": "textures/items/gold_white_hammer"
+    },
+    "gold_white_helmet": {
+      "textures": "textures/items/gold_white_helmet"
+    },
+    "gold_white_ingot": {
+      "textures": "textures/items/gold_white_ingot"
+    },
+    "gold_white_knife": {
+      "textures": "textures/items/gold_white_knife"
+    },
+    "gold_white_leggings": {
+      "textures": "textures/items/gold_white_leggings"
+    },
+    "gold_white_rifle": {
+      "textures": "textures/items/gold_white_rifle"
+    },
+    "gold_white_sword": {
+      "textures": "textures/items/gold_white_sword"
+    },
+    "gun_powder": {
+      "textures": "textures/items/gun_powder"
+    },
+    "heart_of_nature": {
+      "textures": "textures/items/heart_of_nature"
+    },
+    "jade": {
+      "textures": "textures/items/jade"
+    },
+    "jade_shard": {
+      "textures": "textures/items/jade_shard"
+    },
+    "key": {
+      "textures": "textures/items/key"
+    },
+    "lasso": {
+      "textures": "textures/items/lasso"
+    },
+    "money": {
+      "textures": "textures/items/money"
+    },
+    "munition": {
+      "textures": "textures/items/munition"
+    },
+    "munition_broken": {
+      "textures": "textures/items/munition_broken"
+    },
+    "nitroglycerine": {
+      "textures": "textures/items/nitroglycerine"
+    },
+    "obsidian_boots": {
+      "textures": "textures/items/obsidian_boots"
+    },
+    "obsidian_box": {
+      "textures": "textures/items/obsidian_box"
+    },
+    "obsidian_chestplate": {
+      "textures": "textures/items/obsidian_chestplate"
+    },
+    "obsidian_helmet": {
+      "textures": "textures/items/obsidian_helmet"
+    },
+    "obsidian_ingot": {
+      "textures": "textures/items/obsidian_ingot"
+    },
+    "obsidian_leggings": {
+      "textures": "textures/items/obsidian_leggings"
+    },
+    "obsidian_raw": {
+      "textures": "textures/items/obsidian_raw"
+    },
+    "pain_grille": {
+      "textures": "textures/items/pain_grille"
+    },
+    "pizza": {
+      "textures": "textures/items/pizza"
+    },
+    "plank": {
+      "textures": "textures/items/plank"
+    },
+    "platinum_axe": {
+      "textures": "textures/items/platinum_axe"
+    },
+    "platinum_big_sword": {
+      "textures": "textures/items/platinum_big_sword"
+    },
+    "platinum_boots": {
+      "textures": "textures/items/platinum_boots"
+    },
+    "platinum_box": {
+      "textures": "textures/items/platinum_box"
+    },
+    "platinum_chestplate": {
+      "textures": "textures/items/platinum_chestplate"
+    },
+    "platinum_hammer": {
+      "textures": "textures/items/platinum_hammer"
+    },
+    "platinum_helmet": {
+      "textures": "textures/items/platinum_helmet"
+    },
+    "platinum_hoe": {
+      "textures": "textures/items/platinum_hoe"
+    },
+    "platinum_ingot": {
+      "textures": "textures/items/platinum_ingot"
+    },
+    "platinum_knife": {
+      "textures": "textures/items/platinum_knife"
+    },
+    "platinum_leggings": {
+      "textures": "textures/items/platinum_leggings"
+    },
+    "platinum_nugget": {
+      "textures": "textures/items/platinum_nugget"
+    },
+    "platinum_pickaxe": {
+      "textures": "textures/items/platinum_pickaxe"
+    },
+    "platinum_powder": {
+      "textures": "textures/items/platinum_powder"
+    },
+    "platinum_raw": {
+      "textures": "textures/items/platinum_raw"
+    },
+    "platinum_rifle": {
+      "textures": "textures/items/platinum_rifle"
+    },
+    "platinum_shovel": {
+      "textures": "textures/items/platinum_shovel"
+    },
+    "platinum_sword": {
+      "textures": "textures/items/platinum_sword"
+    },
+    "platinum_unclaim": {
+      "textures": "textures/items/platinum_unclaim"
+    },
+    "pokeball": {
+      "textures": "textures/items/pokeball"
+    },
+    "raisin_eau": {
+      "textures": "textures/items/raisin_eau"
+    },
+    "raisin_feu": {
+      "textures": "textures/items/raisin_feu"
+    },
+    "raisin_foudre": {
+      "textures": "textures/items/raisin_foudre"
+    },
+    "raisin_moisi": {
+      "textures": "textures/items/raisin_moisi"
+    },
+    "raisin_seeds": {
+      "textures": "textures/items/raisin_seeds"
+    },
+    "raisin_soup": {
+      "textures": "textures/items/raisin_soup"
+    },
+    "root": {
+      "textures": "textures/items/root"
+    },
+    "rtp": {
+      "textures": "textures/items/rtp"
+    },
+    "ruby": {
+      "textures": "textures/items/ruby"
+    },
+    "ruby_alcool": {
+      "textures": "textures/items/ruby_alcool"
+    },
+    "ruby_powder": {
+      "textures": "textures/items/ruby_powder"
+    },
+    "ruby_shard": {
+      "textures": "textures/items/ruby_shard"
+    },
+    "ruby_stick": {
+      "textures": "textures/items/ruby_stick"
+    },
+    "rune": {
+      "textures": "textures/items/rune"
+    },
+    "rune_eau": {
+      "textures": "textures/items/rune_eau"
+    },
+    "rune_gold": {
+      "textures": "textures/items/rune_gold"
+    },
+    "rune_golden": {
+      "textures": "textures/items/rune_golden"
+    },
+    "rune_magique": {
+      "textures": "textures/items/rune_magique"
+    },
+    "rune_sacre": {
+      "textures": "textures/items/rune_sacre"
+    },
+    "rune_sulfur": {
+      "textures": "textures/items/rune_sulfur"
+    },
+    "sac_money": {
+      "textures": "textures/items/sac_money"
+    },
+    "sellwand": {
+      "textures": "textures/items/sellwand"
+    },
+    "sell_chest": {
+      "textures": "textures/items/sell_chest"
+    },
+    "sell_chest_faction": {
+      "textures": "textures/items/sell_chest_faction"
+    },
+    "smelt_stone": {
+      "textures": "textures/items/smelt_stone"
+    },
+    "soul": {
+      "textures": "textures/items/soul"
+    },
+    "soul_ingot": {
+      "textures": "textures/items/soul_ingot"
+    },
+    "soul_sword": {
+      "textures": "textures/items/soul_sword"
+    },
+    "star": {
+      "textures": "textures/items/star"
+    },
+    "stick": {
+      "textures": "textures/items/stick"
+    },
+    "storage_stone": {
+      "textures": "textures/items/storage_stone"
+    },
+    "sulfur": {
+      "textures": "textures/items/sulfur"
+    },
+    "sulfur_powder": {
+      "textures": "textures/items/sulfur_powder"
+    },
+    "ticket": {
+      "textures": "textures/items/ticket"
+    },
+    "topaze": {
+      "textures": "textures/items/topaze"
+    },
+    "topaze_shard": {
+      "textures": "textures/items/topaze_shard"
+    },
+    "wooden_big_sword": {
+      "textures": "textures/items/wooden_big_sword"
+    },
+    "wooden_knife": {
+      "textures": "textures/items/wooden_knife"
+    },
+    "wooden_spear": {
+      "textures": "textures/items/wooden_spear"
+    },
+    "wooden_staff": {
+      "textures": "textures/items/wooden_staff"
+    },
+    "xp_bottle_lvl_2": {
+      "textures": "textures/items/xp_bottle_lvl_2"
+    },
+    "xp_bottle_lvl_3": {
+      "textures": "textures/items/xp_bottle_lvl_3"
+    },
+    "diamond_big_sword": {
+      "textures": "textures/items/diamond_big_sword"
+    },
+    "diamond_knife": {
+      "textures": "textures/items/diamond_knife"
+    },
+    "steel_axe": {
+      "textures": "textures/items/steel_axe"
+    },
+    "steel_big_sword": {
+      "textures": "textures/items/steel_big_sword"
+    },
+    "steel_boots": {
+      "textures": "textures/items/steel_boots"
+    },
+    "steel_chestplate": {
+      "textures": "textures/items/steel_chestplate"
+    },
+    "steel_hammer": {
+      "textures": "textures/items/steel_hammer"
+    },
+    "steel_helmet": {
+      "textures": "textures/items/steel_helmet"
+    },
+    "steel_hoe": {
+      "textures": "textures/items/steel_hoe"
+    },
+    "steel_ingot": {
+      "textures": "textures/items/steel_ingot"
+    },
+    "steel_knife": {
+      "textures": "textures/items/steel_knife"
+    },
+    "steel_leggings": {
+      "textures": "textures/items/steel_leggings"
+    },
+    "steel_pickaxe": {
+      "textures": "textures/items/steel_pickaxe"
+    },
+    "steel_scrap": {
+      "textures": "textures/items/steel_scrap"
+    },
+    "steel_shovel": {
+      "textures": "textures/items/steel_shovel"
+    },
+    "steel_speer": {
+      "textures": "textures/items/steel_speer"
+    },
+    "steel_sword": {
+      "textures": "textures/items/steel_sword"
+    },
+    "wooden_speer": {
+      "textures": "textures/items/wooden_speer"
+    },
+    "sulfur_box": {
+      "textures": "textures/items/sulfur_box"
+    },
+    "beetroot_aluminium": {
+      "textures": "textures/items/beetroot_aluminium"
+    },
+    "beetroot_netherite": {
+      "textures": "textures/items/beetroot_netherite"
+    },
+    "carrot_copper": {
+      "textures": "textures/items/carrot_copper"
+    },
+    "carrot_platinum": {
+      "textures": "textures/items/carrot_platinum"
+    },
+    "glass": {
+      "textures": "textures/items/glass"
+    },
+    "potato_emerald": {
+      "textures": "textures/items/potato_emerald"
+    },
+    "potato_iron": {
+      "textures": "textures/items/potato_iron"
+    },
+    "seeds_beetroot_aluminium": {
+      "textures": "textures/items/seeds_beetroot_aluminium"
+    },
+    "seeds_beetroot_netherite": {
+      "textures": "textures/items/seeds_beetroot_netherite"
+    },
+    "seeds_carrot_copper": {
+      "textures": "textures/items/seeds_carrot_copper"
+    },
+    "seeds_carrot_platinum": {
+      "textures": "textures/items/seeds_carrot_platinum"
+    },
+    "seeds_potato_emerald": {
+      "textures": "textures/items/seeds_potato_emerald"
+    },
+    "seeds_potato_iron": {
+      "textures": "textures/items/seeds_potato_iron"
+    },
+    "seeds_wheat_gold": {
+      "textures": "textures/items/seeds_wheat_gold"
+    },
+    "seeds_wheat_obsidian": {
+      "textures": "textures/items/seeds_wheat_obsidian"
+    },
+    "wheat_gold": {
+      "textures": "textures/items/wheat_gold"
+    },
+    "wheat_obsidian": {
+      "textures": "textures/items/wheat_obsidian"
+    },
+    "copper_big_hoe": {
+      "textures": "textures/items/copper_big_hoe"
+    },
+    "electrum_big_hoe": {
+      "textures": "textures/items/electrum_big_hoe"
+    },
+    "emerald_double_hoe": {
+      "textures": "textures/items/emerald_double_hoe"
+    },
+    "emerald_bow_pulling" : {
+      "textures" : [
+         "textures/items/emerald_bow_pulling_0",
+         "textures/items/emerald_bow_pulling_1",
+         "textures/items/emerald_bow_pulling_2"
+      ]
+    },
+    "emerald_bow_pulling_0": {
+      "textures": "textures/items/emerald_bow_pulling_0"
+    },
+    "emerald_bow_pulling_1": {
+      "textures": "textures/items/emerald_bow_pulling_1"
+    },
+    "emerald_bow_pulling_2": {
+      "textures": "textures/items/emerald_bow_pulling_2"
+    },
+    "emerald_bow": {
+      "textures": "textures/items/emerald_bow_standby"
+    },
+    "emerald_knife": {
+      "textures": "textures/items/emerald_knife"
+    },
+    "emerald_speer": {
+      "textures": "textures/items/emerald_speer"
+    },
+    "gold_big_hoe": {
+      "textures": "textures/items/gold_big_hoe"
+    },
+    "platinum_bow_pulling_0": {
+      "textures": "textures/items/platinum_bow_pulling_0"
+    },
+    "platinum_bow_pulling_1": {
+      "textures": "textures/items/platinum_bow_pulling_1"
+    },
+    "platinum_bow_pulling_2": {
+      "textures": "textures/items/platinum_bow_pulling_2"
+    },
+    "platinum_bow_standby": {
+      "textures": "textures/items/platinum_bow_standby"
+    },
+    "platinum_speer": {
+      "textures": "textures/items/platinum_speer"
+    },
+    "wood_double_hoe": {
+      "textures": "textures/items/wood/wood_double_hoe"
+    },
+    "wood_double_axe": {
+      "textures": "textures/items/wood/wood_double_axe"
+    },
+    "wood_double_pickaxe": {
+      "textures": "textures/items/wood/wood_double_pickaxe"
+    },
+    "wood_multi_tools": {
+      "textures": "textures/items/wood/wood_multi_tools"
+    },
+    "wood_hammer": {
+      "textures": "textures/items/wood/wood_hammer"
+    },
+    "wood_big_sword": {
+      "textures": "textures/items/wood/wood_big_sword"
+    },
+    "wood_knife": {
+      "textures": "textures/items/wood/wood_knife"
+    },
+    "wood_sickle": {
+      "textures": "textures/items/wood/wood_sickle"
+    },
+    "wood_spear": {
+      "textures": "textures/items/wood/wood_spear"
+    },
+    "wood_boots": {
+      "textures": "textures/items/wood/wood_boots"
+    },
+    "wood_leggings": {
+      "textures": "textures/items/wood/wood_leggings"
+    },
+    "wood_chestplate": {
+      "textures": "textures/items/wood/wood_chestplate"
+    },
+    "wood_helmet": {
+      "textures": "textures/items/wood/wood_helmet"
+    },
+    "pink_gold_speck":
+    {
+      "textures": "textures/items/pink_gold/pink_gold_speck"
+    },
+    "pink_gold_ingot":
+    {
+      "textures": "textures/items/pink_gold/pink_gold_ingot"
+    },
+    "pink_gold_nugget":
+    {
+      "textures": "textures/items/pink_gold/pink_gold_nugget"
+    },
+    "stone_horse":
+    {
+      "textures": "textures/items/stone_horse"
+    },
+    "bone_pickaxe_0":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_0"
+    },
+    "bone_pickaxe_1":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_1"
+    },
+    "bone_pickaxe_2":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_2"
+    },
+    "bone_pickaxe_3":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_3"
+    },
+    "bone_pickaxe_4":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_4"
+    },
+    "bone_pickaxe_5":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_5"
+    },
+    "bone_pickaxe_6":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_6"
+    },
+    "bone_pickaxe_7":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_7"
+    },
+    "bone_pickaxe_8":
+    {
+      "textures": "textures/items/bones/pickaxe/bone_pickaxe_8"
+    },
+    "bone_sword_0":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_0"
+    },
+    "bone_sword_1":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_1"
+    },
+    "bone_sword_2":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_2"
+    },
+    "bone_sword_3":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_3"
+    },
+    "bone_sword_4":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_4"
+    },
+    "bone_sword_5":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_5"
+    },
+    "bone_sword_6":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_6"
+    },
+    "bone_sword_7":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_7"
+    },
+    "bone_sword_8":
+    {
+      "textures": "textures/items/bones/sword/bone_sword_8"
+    },
+    "bone_axe_0":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_0"
+    },
+    "bone_axe_1":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_1"
+    },
+    "bone_axe_2":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_2"
+    },
+    "bone_axe_3":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_3"
+    },
+    "bone_axe_4":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_4"
+    },
+    "bone_axe_5":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_5"
+    },
+    "bone_axe_6":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_6"
+    },
+    "bone_axe_7":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_7"
+    },
+    "bone_axe_8":
+    {
+      "textures": "textures/items/bones/axe/bone_axe_8"
+    }
+  },
+  "texture_name": "atlas.items"
+}
