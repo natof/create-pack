@@ -2,13 +2,28 @@
   "goldrush:copper_pipe": {
     "textures": "copper_pipe"
   },
-  "goldrush:copper__long_pipe": {
+  "goldrush:copper_long_pipe": {
     "textures": "copper_pipe"
   },
   "goldrush:copper_turn_pipe": {
     "textures": "copper_pipe"
   },
   "goldrush:copper_long_end_pipe": {
+    "textures": "copper_pipe"
+  }
+  "goldrush:copper_up_long_pipe": {
+    "textures": "copper_pipe"
+  },
+  "goldrush:copper_up_turn_pipe": {
+    "textures": "copper_pipe"
+  },
+  "goldrush:copper_up_long_end_pipe": {
+    "textures": "copper_pipe"
+  },
+  "goldrush:copper_down_turn_pipe": {
+    "textures": "copper_pipe"
+  },
+  "goldrush:copper_down_long_end_pipe": {
     "textures": "copper_pipe"
   }
 }
