@@ -1,5 +1,5 @@
 {
-  "goldrush:copper_pipe",
+  "goldrush:copper_pipe": {
     "textures": "copper_pipe"
   }
 }
