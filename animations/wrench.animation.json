@@ -3,10 +3,20 @@
 	"animations": {
 		"animation.wrench.hold_first_person": {
 			"loop": true,
+			"animation_length": 4,
 			"bones": {
 				"item": {
-					"rotation": [5.15677, 406.03789, -0.53746],
-					"position": [6, 14, 12]
+					"rotation": {
+						"0.0": [5.15677, 406.03789, -0.53746],
+						"1.5417": [0.21433, 406.24922, -7.38654]
+					},
+					"position": [11, 14, 12]
+				},
+				"group": {
+					"rotation": {
+						"0.0": [0, 0, 0],
+						"4.0": [0, 180, 0]
+					}
 				}
 			}
 		},
