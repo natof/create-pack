@@ -5,6 +5,12 @@
   "texture_data": {
     "copper_pipe" : {
       "textures": "textures/blocks/copper_pipe"
+    },
+    "glass_copper_pipe" : {
+      "textures": "textures/blocks/glass_copper_pipe"
+    },
+    "glass_copper_water_pipe" : {
+      "textures": "textures/blocks/glass_copper_water_pipe"
     }
   },
   "texture_name": "atlas.terrain"

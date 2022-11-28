@@ -25,5 +25,11 @@
   },
   "goldrush:copper_down_long_end_pipe": {
     "textures": "copper_pipe"
-  }
+  },
+  "goldrush:glass_copper_pipe" : {
+    "textures": "glass_copper_pipe"
+  },
+  "goldrush:glass_copper_water_pipe" : {
+    "textures": "glass_copper_water_pipe"
+  },
 }
