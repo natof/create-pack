@@ -32,4 +32,7 @@
   "goldrush:glass_copper_water_pipe" : {
     "textures": "glass_copper_water_pipe"
   },
+  "goldrush:wrench" : {
+    "textures": "wrench"
+  }
 }

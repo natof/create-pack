@@ -11,6 +11,9 @@
     },
     "glass_copper_water_pipe" : {
       "textures": "textures/blocks/glass_copper_water_pipe"
+    },
+    "wrench" : {
+      "textures": "textures/items/wrench"
     }
   },
   "texture_name": "atlas.terrain"

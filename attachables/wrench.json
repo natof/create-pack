@@ -2,7 +2,7 @@
 	"format_version": "1.10.0",
 	"minecraft:attachable": {
 		"description": {
-			"identifier": "minecraft:stick",
+			"identifier": "goldrush:wrench",
 			"materials": {
 				"default": "entity",
 				"enchanted": "entity_alphatest_glint"
