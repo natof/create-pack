@@ -34,5 +34,9 @@
   },
   "goldrush:wrench" : {
     "textures": "wrench"
+  },
+  "goldrush:copper_pipe_pump":
+  {
+    "textures": "copper_pipe_pump"
   }
 }
