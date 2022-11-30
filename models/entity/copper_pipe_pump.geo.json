@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "copper_pipe_pump",
+				"identifier": "geometry.copper_pipe_pump",
 				"texture_width": 128,
 				"texture_height": 128,
 				"visible_bounds_width": 3,
